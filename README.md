@@ -49,8 +49,7 @@ This task involved performing a basic vulnerability scan on a local machine to i
 ---
 
 ## 📸 Attachments
-- 📄 `nessus_scan_report.pdf` (Exported report)
-- 🖼️ `screenshots/` (Key vulnerability screenshots and scan summary)
+- 📄 `Task 3.pdf` (Exported report)
 
 ---
 
